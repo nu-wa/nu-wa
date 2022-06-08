@@ -7,7 +7,7 @@
 
 > 🏆 236 Contributions in the Year 2022
  > 
-> 📦 10.8 kB Used in GitHub's Storage 
+> 📦 10.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,16 +44,18 @@ Sunday       7 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     1 min               █████████████░░░░░░░░░░░░   53.47% 
+Lua                      1 min               ███████████░░░░░░░░░░░░░░   46.53%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   3 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+rust_open_id             1 min               █████████████░░░░░░░░░░░░   53.47% 
+Unknown Project          1 min               ███████████░░░░░░░░░░░░░░   46.53%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 mins              █████████████████████████   100.0%
 
 ```
 
@@ -74,7 +76,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/nu-wa/nu-wa/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/06/2022 18:46:13 UTC
+ Last Updated on 08/06/2022 18:46:19 UTC
 <!--END_SECTION:waka-->
 
 <!--
