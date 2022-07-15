@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C557%20hrs%2050%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2022
+> 🏆 224 Contributions in the Year 2022
  > 
 > 📦 10.9 kB Used in GitHub's Storage 
  > 
@@ -74,7 +74,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/nu-wa/nu-wa/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/07/2022 18:47:36 UTC
+ Last Updated on 15/07/2022 18:48:51 UTC
 <!--END_SECTION:waka-->
 
 <!--
