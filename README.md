@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C561%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs-blue)
 
 **🐱 My GitHub Data** 
 
@@ -44,16 +44,22 @@ Sunday       7 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust                     2 hrs 35 mins       ███████████████████░░░░░░   76.17% 
+TOML                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.59% 
+YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.53% 
+Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.3% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   3 hrs 23 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sc_nft                   2 hrs 3 mins        ███████████████░░░░░░░░░░   60.49% 
+smart_contract_template  1 hr 12 mins        █████████░░░░░░░░░░░░░░░░   35.5% 
+Unknown Project          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.01%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 23 mins       █████████████████████████   100.0%
 
 ```
 
@@ -74,7 +80,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/nu-wa/nu-wa/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/08/2022 18:50:13 UTC
+ Last Updated on 17/08/2022 18:51:14 UTC
 <!--END_SECTION:waka-->
 
 <!--
